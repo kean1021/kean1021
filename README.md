@@ -68,5 +68,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center"><i>頑張ります 💪 — 일본 IT 업계에서 뛸 준비를 하고 있습니다.</i></p>
