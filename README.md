@@ -1,68 +1,67 @@
-<h1 align="center">Hi 👋, I'm dd</h1>
-<h3 align="center">Junior Backend Developer in the making · Learning Java & Spring Boot</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Still+learning+every+day;Currently+studying+Java+%2B+Spring+Boot;K-Move+Smart+Cloud+IT+Master+Program" alt="Typing SVG" />
+<h1>dd</h1>
+<h3>Aspiring Backend Developer</h3>
+
+<p>
+  <a href="mailto:kean4235@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kean1021"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+</div>
 
 ---
 
-### About Me
+## About Me
 
-- 🌱 New to software development — background in pharmaceutical engineering, now learning to code
-- 🎓 Currently in the **K-Move Smart Cloud IT Master Program** (Busan, 14th cohort)
-- 🇯🇵 Studying and working toward a career in Japan's IT industry (JLPT N1)
-- 🛠️ Learning: `Java`, `Spring Boot`, `MySQL`, basic `HTML/CSS/JavaScript`
-- 🧭 Still figuring a lot of things out, and happy to keep learning
+Hi, I'm dd — I come from a pharmaceutical engineering background and switched into software development. I'm currently in the **K-Move Smart Cloud IT Master Program** (Busan, 14th cohort), studying Java and Spring Boot, and working toward a career in Japan's IT industry.
 
----
-
-### Project I'm Working On — Tanoshimi
-
-A team capstone project built during the K-Move program — a matching platform to help Korean and Japanese travelers find travel companions.
-
-- Working on parts of the backend using Spring Boot, Thymeleaf, and MySQL
-- Contributed to features like authentication, real-time chat (WebSocket/STOMP), and multilingual support
-- A team project, so I've learned a lot from collaborating and reading others' code as much as from writing my own
-
-<p align="left">
-  <a href="https://github.com/genuinekumquat/tanoshimi">
-    <img src="https://img.shields.io/badge/Repo-Tanoshimi-2F80ED?style=flat-square&logo=github" />
-  </a>
-</p>
+- 🌱 Still early in my development journey, learning something new most days
+- 🇯🇵 JLPT N1, aiming for a new-grad IT role in Japan
+- 🎯 Interested in backend development and building things end-to-end
+- 🧭 Comfortable being a beginner — trying to build good habits early rather than rushing
 
 ---
 
-### Currently Learning
+## Skills
 
-<p align="left">
+**Technical**
+
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github" />
 </p>
 
+**Currently Studying**
+`Java` · `Spring Boot` · `MySQL` · `HTML/CSS/JavaScript`
+
+**Soft Skills**
+Business Japanese communication · Cross-team collaboration (K-Move capstone team) · Documentation
+
 ---
 
-### GitHub Stats
+## Featured Project — Tanoshimi
 
-<p align="center">
+A team capstone project from the K-Move program: a matching platform to help Korean and Japanese travelers find travel companions.
+
+| | |
+|---|---|
+| **Stack** | Spring Boot · Thymeleaf · MySQL · WebSocket/STOMP |
+| **My part** | Contributed to authentication, real-time chat, and multilingual support |
+| **Repo** | [github.com/genuinekumquat/tanoshimi](https://github.com/genuinekumquat/tanoshimi) |
+
+It's a team project, so a lot of what I learned came from reading and adapting to code written by teammates, not just writing my own.
+
+---
+
+## GitHub Stats
+
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kean1021&show_icons=true&theme=default&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kean1021&layout=compact&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-### Contact
-
-<p align="left">
-  <a href="mailto:kean4235@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — always open to feedback and advice from more experienced developers 🙂</i></p>
+<div align="center">
+<i>Thanks for visiting — always open to feedback and advice from more experienced developers 🙂</i>
+</div>
