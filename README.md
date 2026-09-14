@@ -64,8 +64,5 @@ A team capstone project built during the K-Move program — a matching platform 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<<<<<<< HEAD
 
 <p align="center"><i>Thanks for stopping by — always open to feedback and advice from more experienced developers 🙂</i></p>
-=======
->>>>>>> 68b5cc69ffa7441527bae7d4c6a78d72339383e1
