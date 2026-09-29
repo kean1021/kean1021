@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2F80ED&height=200&section=header&text=dd&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2F80ED&height=200&section=header&text=Taeung_Jung&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=55&descSize=20"/>
 
 <p>
   <a href="mailto:kean4235@gmail.com"><img src="https://img.shields.io/badge/Gmail-2F80ED?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi, I'm dd — I come from a pharmaceutical engineering background and switched into software development. I'm currently in the **K-Move Smart Cloud IT Master Program** (Busan, 14th cohort), studying Java and Spring Boot, and working toward a career in Japan's IT industry.
+Hi, I'm Taeung Jung — I come from a pharmaceutical engineering background and switched into software development. I'm currently in the **K-Move Smart Cloud IT Master Program** (Busan, 14th cohort), studying Java and Spring Boot, and working toward a career in Japan's IT industry.
 
 - 🌱 Still early in my development journey, learning something new most days
 - 🇯🇵 JLPT N1, aiming for a new-grad IT role in Japan
