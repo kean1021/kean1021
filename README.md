@@ -55,7 +55,7 @@ A team capstone project from the K-Move program: a matching platform to help Kor
   <img src="https://img.shields.io/badge/WebSocket%2FSTOMP-0D47A1?style=flat-square"/>
 </p>
 
-My part: contributed to authentication, real-time chat, and multilingual support.
+My part: trip schedule planner — edit-permission control, auto-save & snapshot rollback, AI schedule validation (Gemini API). Initially worked on authentication.
 
 <a href="https://github.com/genuinekumquat/tanoshimi"><img src="https://img.shields.io/badge/Repo-Tanoshimi-2F80ED?style=flat-square&logo=github&logoColor=white"/></a>
 
